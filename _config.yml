@@ -1,4 +1,8 @@
 # Site settings
+auto: true
+markdown: rdiscount
+pygments: true
+permalink: /blog/:title
 title: BugLai's Blog
 email: buglai666@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
